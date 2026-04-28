@@ -1,4 +1,4 @@
-<img width="1915" height="821" alt="e5933772-6eb8-4ba9-bb51-e2a33e22ec49" src="https://github.com/user-attachments/assets/16fb5d92-1a64-4297-8394-414e5e139c57" />
+<img width="1672" height="941" alt="e5933772-6eb8-4ba9-bb51-e2a33e22ec49" src="https://github.com/user-attachments/assets/0c810338-a773-4e07-964e-f865f7db5d6c" />
 
 # I'm a second-year software/web development student passionate about creating things and improving my skills
 
