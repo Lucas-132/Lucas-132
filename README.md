@@ -22,9 +22,8 @@
 ---
 
 ## What I’m Working On
-- Improving my React skills  
-- Building personal projects to learn new technologies  
-- Exploring algorithms, data structures, and C++ systems programming  
+
+Billy Budget, your personal finance manager. This web app will allow you to manage wallets, plan future expenses, and set spending limits
 
 ---
 
